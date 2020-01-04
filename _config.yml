@@ -2,3 +2,7 @@ name: El Rincon de Teo
 markdown: kramdown
 
 permalink: /blog/:year/:month/:day/:title
+
+social_media:
+  linkedin: linkedin.com/in/igor-hernández-626b3524
+  twitter: igorhernandezr
