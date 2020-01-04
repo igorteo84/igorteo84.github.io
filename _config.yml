@@ -1,4 +1,4 @@
 name: El Rincon de Teo
-theme: jekyll-theme-architect
+markdown: kramdown
 
 permalink: /blog/:year/:month/:day/:title
