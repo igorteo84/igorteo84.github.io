@@ -1,0 +1,18 @@
+---
+layout: feed
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title>El Rincon de Teo's Blog</title>
+	<link href="http://igorteo84.github.io/research/atom.xml" rel="self"/>
+	<link href="http://igorteo84.github.io/research"/>
+	<updated>{{ site.time | date_to_xmlschema }}</updated>
+	<id>http://igorteo84.github.io/research</id>
+	<author>
+		<name>Igor Hernandez</name>
+		<email>ih12@rice.edu</email>
+	</author>
+
+
+</feed>
